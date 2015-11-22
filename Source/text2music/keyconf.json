@@ -1,0 +1,542 @@
+[
+  {
+    "Char": "a",
+    "Sample": "M:\\max\\samples\\ambience_urban_town_traffic_at_night_ver_1_.mp3",
+    "id": 0,
+    "ASCII": 97
+  },
+  {
+    "Char": "A",
+    "Sample": "M:\\max\\samples\\ambience_urban_town_traffic_at_night_ver_1_.mp3",
+    "id": 1,
+    "ASCII": 65
+  },
+  {
+    "Char": "b",
+    "Sample": "M:\\max\\samples\\ambience_urban_town_traffic_at_night_ver_2_.mp3",
+    "id": 2,
+    "ASCII": 98
+  },
+  {
+    "Char": "B",
+    "Sample": "M:\\max\\samples\\ambience_urban_town_traffic_at_night_ver_2_.mp3",
+    "id": 3,
+    "ASCII": 66
+  },
+  {
+    "Char": "c",
+    "Sample": "M:\\max\\samples\\beetle_run.mp3",
+    "id": 4,
+    "ASCII": 99
+  },
+  {
+    "Char": "C",
+    "Sample": "M:\\max\\samples\\beetle_run.mp3",
+    "id": 5,
+    "ASCII": 67
+  },
+  {
+    "Char": "d",
+    "Sample": "M:\\max\\samples\\breathe.mp3",
+    "id": 6,
+    "ASCII": 100
+  },
+  {
+    "Char": "D",
+    "Sample": "M:\\max\\samples\\breathe.mp3",
+    "id": 7,
+    "ASCII": 68
+  },
+  {
+    "Char": "e",
+    "Sample": "M:\\max\\samples\\buceoa.mp3",
+    "id": 8,
+    "ASCII": 101
+  },
+  {
+    "Char": "E",
+    "Sample": "M:\\max\\samples\\buceoa.mp3",
+    "id": 9,
+    "ASCII": 69
+  },
+  {
+    "Char": "f",
+    "Sample": "M:\\max\\samples\\cabinet_2.mp3",
+    "id": 10,
+    "ASCII": 102
+  },
+  {
+    "Char": "F",
+    "Sample": "M:\\max\\samples\\cabinet_2.mp3",
+    "id": 11,
+    "ASCII": 70
+  },
+  {
+    "Char": "g",
+    "Sample": "M:\\max\\samples\\car_door_close_2.mp3",
+    "id": 12,
+    "ASCII": 103
+  },
+  {
+    "Char": "G",
+    "Sample": "M:\\max\\samples\\car_door_close_2.mp3",
+    "id": 13,
+    "ASCII": 71
+  },
+  {
+    "Char": "h",
+    "Sample": "M:\\max\\samples\\car_door_close_4.mp3",
+    "id": 14,
+    "ASCII": 104
+  },
+  {
+    "Char": "H",
+    "Sample": "M:\\max\\samples\\car_door_close_4.mp3",
+    "id": 15,
+    "ASCII": 72
+  },
+  {
+    "Char": "i",
+    "Sample": "M:\\max\\samples\\cell_phone_back_cover_put_on.mp3",
+    "id": 16,
+    "ASCII": 105
+  },
+  {
+    "Char": "I",
+    "Sample": "M:\\max\\samples\\cell_phone_back_cover_put_on.mp3",
+    "id": 17,
+    "ASCII": 73
+  },
+  {
+    "Char": "j",
+    "Sample": "M:\\max\\samples\\cell_phone_back_cover_remove.mp3",
+    "id": 18,
+    "ASCII": 106
+  },
+  {
+    "Char": "J",
+    "Sample": "M:\\max\\samples\\cell_phone_back_cover_remove.mp3",
+    "id": 19,
+    "ASCII": 74
+  },
+  {
+    "Char": "k",
+    "Sample": "M:\\max\\samples\\cough_boy_2_years_painful_sore_throat_001.mp3",
+    "id": 20,
+    "ASCII": 107
+  },
+  {
+    "Char": "K",
+    "Sample": "M:\\max\\samples\\cough_boy_2_years_painful_sore_throat_001.mp3",
+    "id": 21,
+    "ASCII": 75
+  },
+  {
+    "Char": "l",
+    "Sample": "M:\\max\\samples\\cough_boy_2_years_painful_sore_throat_002.mp3",
+    "id": 22,
+    "ASCII": 108
+  },
+  {
+    "Char": "L",
+    "Sample": "M:\\max\\samples\\cough_boy_2_years_painful_sore_throat_002.mp3",
+    "id": 23,
+    "ASCII": 76
+  },
+  {
+    "Char": "m",
+    "Sample": "M:\\max\\samples\\cough_male_30_years_001.mp3",
+    "id": 24,
+    "ASCII": 109
+  },
+  {
+    "Char": "M",
+    "Sample": "M:\\max\\samples\\cough_male_30_years_001.mp3",
+    "id": 25,
+    "ASCII": 77
+  },
+  {
+    "Char": "n",
+    "Sample": "M:\\max\\samples\\crash_metal.mp3",
+    "id": 26,
+    "ASCII": 110
+  },
+  {
+    "Char": "N",
+    "Sample": "M:\\max\\samples\\crash_metal.mp3",
+    "id": 27,
+    "ASCII": 78
+  },
+  {
+    "Char": "o",
+    "Sample": "M:\\max\\samples\\deep_breathing.mp3",
+    "id": 28,
+    "ASCII": 111
+  },
+  {
+    "Char": "O",
+    "Sample": "M:\\max\\samples\\deep_breathing.mp3",
+    "id": 29,
+    "ASCII": 79
+  },
+  {
+    "Char": "p",
+    "Sample": "M:\\max\\samples\\dentist_drill_on_run_and_off.mp3",
+    "id": 30,
+    "ASCII": 112
+  },
+  {
+    "Char": "P",
+    "Sample": "M:\\max\\samples\\dentist_drill_on_run_and_off.mp3",
+    "id": 31,
+    "ASCII": 80
+  },
+  {
+    "Char": "q",
+    "Sample": "M:\\max\\samples\\door_knock.mp3",
+    "id": 32,
+    "ASCII": 113
+  },
+  {
+    "Char": "Q",
+    "Sample": "M:\\max\\samples\\door_knock.mp3",
+    "id": 33,
+    "ASCII": 81
+  },
+  {
+    "Char": "r",
+    "Sample": "M:\\max\\samples\\electric1.mp3",
+    "id": 34,
+    "ASCII": 114
+  },
+  {
+    "Char": "R",
+    "Sample": "M:\\max\\samples\\electric1.mp3",
+    "id": 35,
+    "ASCII": 82
+  },
+  {
+    "Char": "s",
+    "Sample": "M:\\max\\samples\\fly_buzz_attacking_.mp3",
+    "id": 36,
+    "ASCII": 115
+  },
+  {
+    "Char": "S",
+    "Sample": "M:\\max\\samples\\fly_buzz_attacking_.mp3",
+    "id": 37,
+    "ASCII": 83
+  },
+  {
+    "Char": "t",
+    "Sample": "M:\\max\\samples\\fly_buzz_on_window.mp3",
+    "id": 38,
+    "ASCII": 116
+  },
+  {
+    "Char": "T",
+    "Sample": "M:\\max\\samples\\fly_buzz_on_window.mp3",
+    "id": 39,
+    "ASCII": 84
+  },
+  {
+    "Char": "u",
+    "Sample": "M:\\max\\samples\\free_creepy_synth_sound_sound_fx_from_www_sfxsource_com.mp3",
+    "id": 40,
+    "ASCII": 117
+  },
+  {
+    "Char": "U",
+    "Sample": "M:\\max\\samples\\free_creepy_synth_sound_sound_fx_from_www_sfxsource_com.mp3",
+    "id": 41,
+    "ASCII": 85
+  },
+  {
+    "Char": "v",
+    "Sample": "M:\\max\\samples\\gerbil_scratching_plastic_gerbilarium_base.mp3",
+    "id": 42,
+    "ASCII": 118
+  },
+  {
+    "Char": "V",
+    "Sample": "M:\\max\\samples\\gerbil_scratching_plastic_gerbilarium_base.mp3",
+    "id": 43,
+    "ASCII": 86
+  },
+  {
+    "Char": "w",
+    "Sample": "M:\\max\\samples\\hammer_bang.mp3",
+    "id": 44,
+    "ASCII": 119
+  },
+  {
+    "Char": "W",
+    "Sample": "M:\\max\\samples\\hammer_bang.mp3",
+    "id": 45,
+    "ASCII": 87
+  },
+  {
+    "Char": "x",
+    "Sample": "M:\\max\\samples\\heart_beat.mp3",
+    "id": 46,
+    "ASCII": 120
+  },
+  {
+    "Char": "X",
+    "Sample": "M:\\max\\samples\\heart_beat.mp3",
+    "id": 47,
+    "ASCII": 88
+  },
+  {
+    "Char": "y",
+    "Sample": "M:\\max\\samples\\human_breathing_with_bad_mucus_chest_flu_or_cold.mp3",
+    "id": 48,
+    "ASCII": 121
+  },
+  {
+    "Char": "Y",
+    "Sample": "M:\\max\\samples\\human_breathing_with_bad_mucus_chest_flu_or_cold.mp3",
+    "id": 49,
+    "ASCII": 89
+  },
+  {
+    "Char": "z",
+    "Sample": "M:\\max\\samples\\human_heart_beat.mp3",
+    "id": 50,
+    "ASCII": 122
+  },
+  {
+    "Char": "Z",
+    "Sample": "M:\\max\\samples\\human_heart_beat.mp3",
+    "id": 51,
+    "ASCII": 90
+  },
+  {
+    "Char": " ",
+    "Sample": "M:\\max\\samples\\human_single_breath_with_mucus_chest.mp3",
+    "id": 52,
+    "ASCII": 32
+  },
+  {
+    "Char": "!",
+    "Sample": "M:\\max\\samples\\jigsaw_puzzle_pieces_large_fall_from_bag_to_surface.mp3",
+    "id": 53,
+    "ASCII": 33
+  },
+  {
+    "Char": "\"",
+    "Sample": "M:\\max\\samples\\large_hanging_picture_frame_swing_against_wall.mp3",
+    "id": 54,
+    "ASCII": 34
+  },
+  {
+    "Char": "#",
+    "Sample": "M:\\max\\samples\\large_metal_drum_multuple_light_impacts.mp3",
+    "id": 55,
+    "ASCII": 35
+  },
+  {
+    "Char": "$",
+    "Sample": "M:\\max\\samples\\large_metal_drum_three_quick_light_impacts.mp3",
+    "id": 56,
+    "ASCII": 36
+  },
+  {
+    "Char": "%",
+    "Sample": "M:\\max\\samples\\laugh_group_chuckle.mp3",
+    "id": 57,
+    "ASCII": 37
+  },
+  {
+    "Char": "&",
+    "Sample": "M:\\max\\samples\\laugh_hysterical_male.mp3",
+    "id": 58,
+    "ASCII": 38
+  },
+  {
+    "Char": "'",
+    "Sample": "M:\\max\\samples\\laugh_short_outburst_child_female.mp3",
+    "id": 59,
+    "ASCII": 39
+  },
+  {
+    "Char": "(",
+    "Sample": "M:\\max\\samples\\laugh_wheezy_male.mp3",
+    "id": 60,
+    "ASCII": 40
+  },
+  {
+    "Char": ")",
+    "Sample": "M:\\max\\samples\\loose_earth_dirt_move_fall.mp3",
+    "id": 61,
+    "ASCII": 41
+  },
+  {
+    "Char": "*",
+    "Sample": "M:\\max\\samples\\metal_filing_cabinet_open_and_close.mp3",
+    "id": 62,
+    "ASCII": 42
+  },
+  {
+    "Char": "+",
+    "Sample": "M:\\max\\samples\\miter_saw_on_run_and_off.mp3",
+    "id": 63,
+    "ASCII": 43
+  },
+  {
+    "Char": ",",
+    "Sample": "M:\\max\\samples\\munching.mp3",
+    "id": 64,
+    "ASCII": 44
+  },
+  {
+    "Char": "-",
+    "Sample": "M:\\max\\samples\\one_person_running_on_gravel.mp3",
+    "id": 65,
+    "ASCII": 45
+  },
+  {
+    "Char": ".",
+    "Sample": "M:\\max\\samples\\passenger_train_xtrapolis_100_interior_level_crossing.mp3",
+    "id": 66,
+    "ASCII": 46
+  },
+  {
+    "Char": "/",
+    "Sample": "M:\\max\\samples\\rubber_object_movement_001.mp3",
+    "id": 67,
+    "ASCII": 47
+  },
+  {
+    "Char": "0",
+    "Sample": "M:\\max\\samples\\rubber_object_movement_002.mp3",
+    "id": 68,
+    "ASCII": 48
+  },
+  {
+    "Char": "1",
+    "Sample": "M:\\max\\samples\\rubber_object_movement_004.mp3",
+    "id": 69,
+    "ASCII": 49
+  },
+  {
+    "Char": "2",
+    "Sample": "M:\\max\\samples\\science_fiction_pulsating_machine_2.mp3",
+    "id": 70,
+    "ASCII": 50
+  },
+  {
+    "Char": "3",
+    "Sample": "M:\\max\\samples\\servo_motor_3.mp3",
+    "id": 71,
+    "ASCII": 51
+  },
+  {
+    "Char": "4",
+    "Sample": "M:\\max\\samples\\servo_motor_4.mp3",
+    "id": 72,
+    "ASCII": 52
+  },
+  {
+    "Char": "5",
+    "Sample": "M:\\max\\samples\\servo_motor_5.mp3",
+    "id": 73,
+    "ASCII": 53
+  },
+  {
+    "Char": "6",
+    "Sample": "M:\\max\\samples\\servo_motor_6.mp3",
+    "id": 74,
+    "ASCII": 54
+  },
+  {
+    "Char": "7",
+    "Sample": "M:\\max\\samples\\servo_motor_7.mp3",
+    "id": 75,
+    "ASCII": 55
+  },
+  {
+    "Char": "8",
+    "Sample": "M:\\max\\samples\\shallow_bath_water_splash_002.mp3",
+    "id": 76,
+    "ASCII": 56
+  },
+  {
+    "Char": "9",
+    "Sample": "M:\\max\\samples\\small_hard_object_scrape_on_surface_of_large_metal_drum.mp3",
+    "id": 77,
+    "ASCII": 57
+  },
+  {
+    "Char": ":",
+    "Sample": "M:\\max\\samples\\solarplexis_hit.mp3",
+    "id": 78,
+    "ASCII": 58
+  },
+  {
+    "Char": ";",
+    "Sample": "M:\\max\\samples\\some_creepy_voice.mp3",
+    "id": 79,
+    "ASCII": 59
+  },
+  {
+    "Char": "<",
+    "Sample": "M:\\max\\samples\\sound_design_liquid_eery_bubbles.mp3",
+    "id": 80,
+    "ASCII": 60
+  },
+  {
+    "Char": "=",
+    "Sample": "M:\\max\\samples\\spider_tarantula_hiss.mp3",
+    "id": 81,
+    "ASCII": 61
+  },
+  {
+    "Char": ">",
+    "Sample": "M:\\max\\samples\\spider_tarantula_walk_on_leaves.mp3",
+    "id": 82,
+    "ASCII": 62
+  },
+  {
+    "Char": "?",
+    "Sample": "M:\\max\\samples\\steam_blast.mp3",
+    "id": 83,
+    "ASCII": 63
+  },
+  {
+    "Char": "@",
+    "Sample": "M:\\max\\samples\\stomach_gurgle_version_5.mp3",
+    "id": 84,
+    "ASCII": 64
+  },
+  {
+    "Char": "[",
+    "Sample": "M:\\max\\samples\\sudden_epik.mp3",
+    "id": 85,
+    "ASCII": 91
+  },
+  {
+    "Char": "\\",
+    "Sample": "M:\\max\\samples\\synthesizer_assignable_fader_movements.mp3",
+    "id": 86,
+    "ASCII": 92
+  },
+  {
+    "Char": "]",
+    "Sample": "M:\\max\\samples\\synthesizer_flanged_universe.mp3",
+    "id": 87,
+    "ASCII": 93
+  },
+  {
+    "Char": "^",
+    "Sample": "M:\\max\\samples\\synthesizer_pitch_bend_wheel_bend_and_release.mp3",
+    "id": 88,
+    "ASCII": 94
+  },
+  {
+    "Char": "_",
+    "Sample": "M:\\max\\samples\\synthesizer_suspenseful_bass.mp3",
+    "id": 89,
+    "ASCII": 95
+  }
+]
